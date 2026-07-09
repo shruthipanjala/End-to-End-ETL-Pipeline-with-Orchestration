@@ -89,4 +89,4 @@ great_expectations checkpoint run healthcare_checkpoint
 
 ## A note on this being a portfolio project
 
-The data is real and public, but this isn't feeding any actual clinical or business decision — it's a demonstration of orchestration, modeling, and data-quality practices using real-world messy government data rather than a clean sample dataset. Happy to walk through the dbt lineage graph or the Great Expectations setup in more depth — those are the two pieces I'd most want to talk through.
+The data is real and public, but this isn't feeding any actual clinical or business decision it's a demonstration of orchestration, modeling, and data-quality practices using real-world messy government data rather than a clean sample dataset. Happy to walk through the dbt lineage graph or the Great Expectations setup in more depth those are the two pieces I'd most want to talk through.
